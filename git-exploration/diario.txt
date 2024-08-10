@@ -1,4 +1,5 @@
 DIARIO de Uriel
 
 Dia1.Comenzando el curso.
-Dia2.Probando Agregar items
+Dia2.Probando Agregar items.
+Dia3.Pensando actualizar todo.
